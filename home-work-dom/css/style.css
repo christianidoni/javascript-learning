@@ -1,0 +1,41 @@
+.listItem {
+  color: grey;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.list {
+  text-decoration: none;
+}
+
+.red {
+  color: red;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+h2 {
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+.price {
+  color: green;
+  font-weight: bold;
+  margin-left: 5px;
+}
